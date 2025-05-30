@@ -8,7 +8,7 @@ This repository contains screenshots and documentation as proof of lab completio
 
 The repository is organized into the following folders:
 
-Srimathi — Lab completion screenshots and materials uploaded by [Your
+Srimathi — Lab completion screenshots and materials uploaded by Srimathi
 
 ## Purpose
 
