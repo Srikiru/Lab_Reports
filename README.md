@@ -20,8 +20,7 @@ This repository serves as a collaborative space for:
 
 ## Team Members
 
-Nandanwar Akhilesh
-Srimathi J K
+Nandanwar Akhilesh and Srimathi J K
 
 ## Mentors
 
