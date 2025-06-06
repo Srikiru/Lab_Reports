@@ -1,6 +1,6 @@
 Lab: DOM XSS in document.write sink using source location.search
-link:
-Severity:
+link:https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink
+Severity:High
 
 📝 Description
 This lab demonstrates a DOM-based Cross-Site Scripting (XSS) vulnerability arising from unsafe handling of user input in client-side JavaScript. Specifically, the application uses the document.write function to insert content into the page, incorporating data directly from location.search (the URL's query string) without proper sanitization.
